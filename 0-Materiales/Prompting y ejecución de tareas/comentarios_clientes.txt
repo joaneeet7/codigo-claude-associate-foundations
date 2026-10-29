@@ -1,0 +1,40 @@
+C01. El pedido llegó 6 días tarde y nadie me avisó del retraso.
+C02. La lámpara Aura es preciosa, mejor que en las fotos.
+C03. Tardaron 4 días en contestar mi correo sobre la factura.
+C04. El jarrón llegó roto. El embalaje era una caja sin protección.
+C05. Devolver el sofá fue una pesadilla: tres llamadas y un formulario que no funcionaba.
+C06. Muy buena calidad de las sábanas Lino, repetiré.
+C07. La web se colgó dos veces al pagar con tarjeta.
+C08. Envío rapidísimo, en 24 horas lo tenía en casa.
+C09. El precio de la mesa Roble ha subido un 20 % en un mes, no lo entiendo.
+C10. Me llegó un color distinto al que pedí.
+C11. El chat de atención al cliente nunca responde por la tarde.
+C12. Las tazas Nube llegaron dos rotas de seis.
+C13. Todo perfecto, gracias.
+C14. El seguimiento del envío no se actualizó en una semana.
+C15. Para devolver hay que pagar el transporte, eso no se dice en ningún sitio.
+C16. La alfombra Duna huele a químico los primeros días.
+C17. La app me cobró dos veces el mismo pedido.
+C18. El repartidor dejó el paquete en la calle sin llamar.
+C19. Muy amables por teléfono, me solucionaron el problema al momento.
+C20. La lámpara Aura dejó de funcionar a las dos semanas.
+C21. Los precios son más altos que en otras tiendas para productos parecidos.
+C22. Embalaje excelente, todo llegó perfecto.
+C23. No encuentro dónde descargar la factura en la web.
+C24. El reembolso de mi devolución tardó más de un mes.
+C25. Calidad-precio muy buena en la vajilla Terra.
+C26. Pedido incompleto: faltaba una silla de las cuatro.
+C27. Me escribieron tres correos distintos con información contradictoria.
+C28. Me encanta el diseño de toda la colección.
+C29. El código de descuento no funcionó al pagar.
+C30. Llegó en la fecha prevista, sin problemas.
+C31. La mesa Roble tiene un arañazo de fábrica.
+C32. Quise cambiar la dirección de entrega y fue imposible.
+C33. Respuesta de atención al cliente muy genérica, no resolvió nada.
+C34. Las sábanas Lino destiñen en el primer lavado.
+C35. La web es lenta en el móvil.
+C36. Volveré a comprar, estoy muy contento.
+C37. Tuve que esperar 40 minutos al teléfono.
+C38. Pedí factura a nombre de empresa y vino a mi nombre.
+C39. El cojín Duna llegó en una bolsa sin caja, aplastado.
+C40. Os recomendaría si mejoráis los plazos de entrega.

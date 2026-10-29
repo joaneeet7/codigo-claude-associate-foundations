@@ -1,0 +1,61 @@
+id,fecha,sistema,severidad,descripcion,horas_resolucion
+INC-2600,15/09,App móvil,Media,Notificaciones duplicadas,11.2
+INC-2601,17/09,Pasarela de pago,Media,Timeout al confirmar pago,3.0
+INC-2602,10/09,Pasarela de pago,Alta,Doble cargo en tarjeta,1.2
+INC-2603,02/09,Web tienda,Alta,Error 500 en buscador,5.2
+INC-2604,20/09,VPN,Crítica,Lentitud en horario punta,2.5
+INC-2605,02/09,Web tienda,Baja,Carrito vacía productos al iniciar sesión,10.2
+INC-2606,15/09,Web tienda,Baja,Página de producto tarda >8 s,2.0
+INC-2607,21/09,App móvil,Alta,Notificaciones duplicadas,4.0
+INC-2608,09/09,Pasarela de pago,Media,Timeout al confirmar pago,6.0
+INC-2609,23/09,VPN,Crítica,No conecta desde Mac,3.1
+INC-2610,03/09,App móvil,Baja,Login falla con biometría,6.3
+INC-2611,13/09,ERP,Media,Stock no sincroniza con la web,10.3
+INC-2612,07/09,VPN,Alta,Desconexiones cada 30 min,0.6
+INC-2613,03/09,Pasarela de pago,Crítica,Rechazo de tarjetas válidas,1.6
+INC-2614,03/09,Pasarela de pago,Alta,Timeout al confirmar pago,2.4
+INC-2615,04/09,App móvil,Crítica,Cierre inesperado al abrir pedidos,2.8
+INC-2616,26/09,Web tienda,Baja,Página de producto tarda >8 s,2.5
+INC-2617,07/09,Web tienda,Media,Error 500 en buscador,5.9
+INC-2618,13/09,ERP,Media,Factura con IVA incorrecto,5.2
+INC-2619,26/09,VPN,Baja,Lentitud en horario punta,15.8
+INC-2620,13/09,App móvil,Alta,Login falla con biometría,2.0
+INC-2621,07/09,Pasarela de pago,Baja,Timeout al confirmar pago,17.8
+INC-2622,10/09,Web tienda,Alta,Página de producto tarda >8 s,2.8
+INC-2623,08/09,Web tienda,Baja,Carrito vacía productos al iniciar sesión,11.1
+INC-2624,19/09,Pasarela de pago,Media,Timeout al confirmar pago,6.0
+INC-2625,21/09,Correo,Baja,Correos de confirmación en spam,7.9
+INC-2626,24/09,App móvil,Baja,Cierre inesperado al abrir pedidos,11.6
+INC-2627,22/09,Web tienda,Media,Página de producto tarda >8 s,7.1
+INC-2628,04/09,Correo,Media,Correos de confirmación en spam,5.6
+INC-2629,23/09,Web tienda,Crítica,Página de producto tarda >8 s,1.1
+INC-2630,10/09,Web tienda,Alta,Error 500 en buscador,4.5
+INC-2631,08/09,Web tienda,Media,Página de producto tarda >8 s,1.8
+INC-2632,09/09,Pasarela de pago,Alta,Doble cargo en tarjeta,4.7
+INC-2633,09/09,Correo,Baja,Retraso de 2 h en envíos,1.8
+INC-2634,12/09,App móvil,Baja,Login falla con biometría,4.4
+INC-2635,15/09,Pasarela de pago,Baja,Timeout al confirmar pago,7.5
+INC-2636,05/09,Pasarela de pago,Media,Rechazo de tarjetas válidas,7.4
+INC-2637,23/09,Web tienda,Baja,Página de producto tarda >8 s,16.5
+INC-2638,16/09,VPN,Baja,Desconexiones cada 30 min,12.0
+INC-2639,03/09,ERP,Baja,Factura con IVA incorrecto,18.0
+INC-2640,24/09,Pasarela de pago,Alta,Rechazo de tarjetas válidas,30.5
+INC-2641,12/09,ERP,Alta,Stock no sincroniza con la web,41.0
+INC-2642,14/09,ERP,Alta,Stock no sincroniza con la web,6.3
+INC-2643,13/09,Correo,Media,Retraso de 2 h en envíos,7.9
+INC-2644,21/09,Pasarela de pago,Media,Doble cargo en tarjeta,1.9
+INC-2645,13/09,VPN,Alta,Lentitud en horario punta,26.4
+INC-2646,18/09,ERP,Media,Stock no sincroniza con la web,6.1
+INC-2647,03/09,Pasarela de pago,Media,Timeout al confirmar pago,4.4
+INC-2648,25/09,Web tienda,Crítica,Error 500 en buscador,0.7
+INC-2649,12/09,Pasarela de pago,Media,Timeout al confirmar pago,10.9
+INC-2650,25/09,Web tienda,Media,Página de producto tarda >8 s,6.7
+INC-2651,11/09,Pasarela de pago,Media,Timeout al confirmar pago,10.8
+INC-2652,26/09,Pasarela de pago,Baja,Doble cargo en tarjeta,8.6
+INC-2653,11/09,Correo,Media,Correos de confirmación en spam,7.4
+INC-2654,28/09,Web tienda,Media,Carrito vacía productos al iniciar sesión,10.2
+INC-2655,06/09,ERP,Crítica,Stock no sincroniza con la web,1.2
+INC-2656,14/09,App móvil,Baja,Notificaciones duplicadas,5.0
+INC-2657,27/09,Pasarela de pago,Media,Rechazo de tarjetas válidas,4.5
+INC-2658,28/09,App móvil,Baja,Login falla con biometría,2.0
+INC-2659,10/09,Web tienda,Media,Error 500 en buscador,7.3

@@ -1,0 +1,8 @@
+PROCEDIMIENTO DE SOPORTE · SISTEMAS
+Severidad Crítica: caída total de un sistema de venta o de cobro.
+Severidad Alta: funcionalidad clave degradada para muchos usuarios.
+Severidad Media: fallo con alternativa disponible.
+Severidad Baja: molestia menor o estética.
+Toda incidencia se registra en la herramienta de tickets con sistema, severidad y descripción.
+Las incidencias críticas se comunican a dirección en menos de 1 hora.
+El informe semanal se envía los lunes antes de las 10:00.

@@ -1,0 +1,51 @@
+id_cliente,importe_anual_eur,region,segmento
+CLI-001,1084,Sur,Particular
+CLI-002,30142,Este,Gran cuenta
+CLI-003,887,Sur,Particular
+CLI-004,44367,Este,Gran cuenta
+CLI-005,1330,Este,Particular
+CLI-006,821,Centro,Particular
+CLI-007,4461,Sur,Pyme
+CLI-008,1229,Centro,Particular
+CLI-009,1091,Norte,Particular
+CLI-010,5896,Sur,Pyme
+CLI-011,6659,Centro,Pyme
+CLI-012,8167,Este,Pyme
+CLI-013,1098,Centro,Particular
+CLI-014,571,Norte,Particular
+CLI-015,11276,Centro,Pyme
+CLI-016,9115,Centro,Pyme
+CLI-017,48767,Centro,Gran cuenta
+CLI-018,7685,Norte,Pyme
+CLI-019,8180,Sur,Pyme
+CLI-020,1293,Centro,Particular
+CLI-021,1138,Norte,Particular
+CLI-022,843,Centro,Particular
+CLI-023,799,Sur,Particular
+CLI-024,57686,Centro,Gran cuenta
+CLI-025,727,Norte,Particular
+CLI-026,5437,Este,Pyme
+CLI-027,898,Sur,Particular
+CLI-028,56499,Centro,Gran cuenta
+CLI-029,9468,Este,Pyme
+CLI-030,859,Este,Particular
+CLI-031,1203,Sur,Particular
+CLI-032,4498,Norte,Pyme
+CLI-033,43789,Este,Gran cuenta
+CLI-034,1053,Norte,Particular
+CLI-035,1104,Sur,Particular
+CLI-036,622,Este,Particular
+CLI-037,4844,Norte,Pyme
+CLI-038,823,Centro,Particular
+CLI-039,1332,Norte,Particular
+CLI-040,1594,Centro,Particular
+CLI-041,947,Norte,Particular
+CLI-042,8336,Este,Pyme
+CLI-043,1190,Norte,Particular
+CLI-044,9689,Este,Pyme
+CLI-045,9495,Norte,Pyme
+CLI-046,69326,Centro,Gran cuenta
+CLI-047,699,Norte,Particular
+CLI-048,51542,Este,Gran cuenta
+CLI-049,5494,Centro,Pyme
+CLI-050,10360,Centro,Pyme

@@ -1,0 +1,5 @@
+ACUERDO DE NIVEL DE SERVICIO
+Crítica: resolución en máximo 4 horas.
+Alta: resolución en máximo 24 horas.
+Media: resolución en máximo 3 días laborables.
+Baja: resolución en máximo 10 días laborables.

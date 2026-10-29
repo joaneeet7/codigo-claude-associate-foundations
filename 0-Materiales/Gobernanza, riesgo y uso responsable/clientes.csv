@@ -1,0 +1,51 @@
+nombre,email,numero_cuenta,importe_anual_eur,region,segmento
+Elena López,elena.lopez0@ejemplo.com,CTA-FICT-100000,1084,Sur,Particular
+Pablo Gómez,pablo.gomez1@ejemplo.com,CTA-FICT-100137,30142,Este,Gran cuenta
+Martina Ruiz,martina.ruiz2@ejemplo.com,CTA-FICT-100274,887,Sur,Particular
+Hugo Serrano,hugo.serrano3@ejemplo.com,CTA-FICT-100411,44367,Este,Gran cuenta
+Laura García,laura.garcia4@ejemplo.com,CTA-FICT-100548,1330,Este,Particular
+Hugo Moreno,hugo.moreno5@ejemplo.com,CTA-FICT-100685,821,Centro,Particular
+Pablo Navarro,pablo.navarro6@ejemplo.com,CTA-FICT-100822,4461,Sur,Pyme
+Laura Navarro,laura.navarro7@ejemplo.com,CTA-FICT-100959,1229,Centro,Particular
+Martina Navarro,martina.navarro8@ejemplo.com,CTA-FICT-101096,1091,Norte,Particular
+Diego Vidal,diego.vidal9@ejemplo.com,CTA-FICT-101233,5896,Sur,Pyme
+Adrián Sánchez,adrian.sanchez10@ejemplo.com,CTA-FICT-101370,6659,Centro,Pyme
+Laura Pérez,laura.perez11@ejemplo.com,CTA-FICT-101507,8167,Este,Pyme
+Adrián Navarro,adrian.navarro12@ejemplo.com,CTA-FICT-101644,1098,Centro,Particular
+Nerea Gómez,nerea.gomez13@ejemplo.com,CTA-FICT-101781,571,Norte,Particular
+Iván Martín,ivan.martin14@ejemplo.com,CTA-FICT-101918,11276,Centro,Pyme
+Elena Gómez,elena.gomez15@ejemplo.com,CTA-FICT-102055,9115,Centro,Pyme
+Noa Martín,noa.martin16@ejemplo.com,CTA-FICT-102192,48767,Centro,Gran cuenta
+Iván Martín,ivan.martin17@ejemplo.com,CTA-FICT-102329,7685,Norte,Pyme
+Iván Serrano,ivan.serrano18@ejemplo.com,CTA-FICT-102466,8180,Sur,Pyme
+Mario García,mario.garcia19@ejemplo.com,CTA-FICT-102603,1293,Centro,Particular
+Javier García,javier.garcia20@ejemplo.com,CTA-FICT-102740,1138,Norte,Particular
+Carla Ruiz,carla.ruiz21@ejemplo.com,CTA-FICT-102877,843,Centro,Particular
+Carla Moreno,carla.moreno22@ejemplo.com,CTA-FICT-103014,799,Sur,Particular
+Marcos Pérez,marcos.perez23@ejemplo.com,CTA-FICT-103151,57686,Centro,Gran cuenta
+Carla Sánchez,carla.sanchez24@ejemplo.com,CTA-FICT-103288,727,Norte,Particular
+Álvaro García,alvaro.garcia25@ejemplo.com,CTA-FICT-103425,5437,Este,Pyme
+Lucía López,lucia.lopez26@ejemplo.com,CTA-FICT-103562,898,Sur,Particular
+Sofía Romero,sofia.romero27@ejemplo.com,CTA-FICT-103699,56499,Centro,Gran cuenta
+Raúl García,raul.garcia28@ejemplo.com,CTA-FICT-103836,9468,Este,Pyme
+Iván Vidal,ivan.vidal29@ejemplo.com,CTA-FICT-103973,859,Este,Particular
+Javier Torres,javier.torres30@ejemplo.com,CTA-FICT-104110,1203,Sur,Particular
+Noa López,noa.lopez31@ejemplo.com,CTA-FICT-104247,4498,Norte,Pyme
+Laura López,laura.lopez32@ejemplo.com,CTA-FICT-104384,43789,Este,Gran cuenta
+Martina Serrano,martina.serrano33@ejemplo.com,CTA-FICT-104521,1053,Norte,Particular
+Mario Navarro,mario.navarro34@ejemplo.com,CTA-FICT-104658,1104,Sur,Particular
+Noa Díaz,noa.diaz35@ejemplo.com,CTA-FICT-104795,622,Este,Particular
+Elena Romero,elena.romero36@ejemplo.com,CTA-FICT-104932,4844,Norte,Pyme
+Lucía Sánchez,lucia.sanchez37@ejemplo.com,CTA-FICT-105069,823,Centro,Particular
+Marcos Molina,marcos.molina38@ejemplo.com,CTA-FICT-105206,1332,Norte,Particular
+Martina Romero,martina.romero39@ejemplo.com,CTA-FICT-105343,1594,Centro,Particular
+Mario Vidal,mario.vidal40@ejemplo.com,CTA-FICT-105480,947,Norte,Particular
+Ana Sánchez,ana.sanchez41@ejemplo.com,CTA-FICT-105617,8336,Este,Pyme
+Valeria Vidal,valeria.vidal42@ejemplo.com,CTA-FICT-105754,1190,Norte,Particular
+Valeria Moreno,valeria.moreno43@ejemplo.com,CTA-FICT-105891,9689,Este,Pyme
+Paula Díaz,paula.diaz44@ejemplo.com,CTA-FICT-106028,9495,Norte,Pyme
+Noa Vidal,noa.vidal45@ejemplo.com,CTA-FICT-106165,69326,Centro,Gran cuenta
+Mario Martín,mario.martin46@ejemplo.com,CTA-FICT-106302,699,Norte,Particular
+Valeria Díaz,valeria.diaz47@ejemplo.com,CTA-FICT-106439,51542,Este,Gran cuenta
+Javier Molina,javier.molina48@ejemplo.com,CTA-FICT-106576,5494,Centro,Pyme
+Iván Martín,ivan.martin49@ejemplo.com,CTA-FICT-106713,10360,Centro,Pyme

@@ -1,0 +1,8 @@
+E1. Hola, ¿cuándo llega mi pedido 48211? Lo hice hace 5 días. Gracias.
+E2. Quiero devolver la lámpara Aura del pedido 47990, no me convence el color.
+E3. Necesito la factura del pedido 48002 a nombre de mi empresa, Diseños Ruiz SL, CIF B00000000.
+E4. ES LA TERCERA VEZ QUE ESCRIBO. Me cobrasteis dos veces el pedido 47815 y nadie me contesta. Si no me devolvéis el dinero esta semana pondré una reclamación formal en consumo.
+E5. ¿Tenéis la mesa Roble en color blanco?
+E6. Hello, I ordered two chairs (order 48120) but only one arrived. Can you help?
+E7. Me llegaron rotos el jarrón del pedido 48033 y dos tazas del pedido 48057. Adjunto fotos.
+E8. ¿Puedo cambiar la dirección de entrega del pedido 48230? Me mudo el lunes.

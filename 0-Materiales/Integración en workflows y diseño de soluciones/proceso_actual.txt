@@ -1,0 +1,10 @@
+PROCESO ACTUAL · ATENCIÓN AL CLIENTE POR CORREO
+Equipo: 4 agentes y 1 responsable.
+1. El correo entra en el buzón compartido.
+2. Un agente lo lee y lo etiqueta a mano (pedido, devolución, factura, incidencia, otro).
+3. El agente busca el pedido en el ERP.
+4. Redacta la respuesta desde cero o copiando de un documento de respuestas tipo.
+5. Si hay compensación (reembolso o descuento), la aprueba el responsable.
+6. Se envía la respuesta.
+Datos: 12 minutos de media por correo; 15 % de respuestas reabiertas por error o información incompleta; las reclamaciones complejas tardan hasta 3 días.
+Excepciones conocidas: clientes que escriben en otro idioma, correos con varios pedidos, amenazas de reclamación formal.
